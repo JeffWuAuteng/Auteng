@@ -855,8 +855,8 @@ if __name__ == "__main__":
         "host": "localhost",  # 数据库主机地址
         "port": 5432,  # 数据库端口
         "dbname": "auteng",  # 数据库名称
-        "user": "postgres",  # 数据库用户名
-        "password": "postgres"  # 数据库密码
+        "user": "***",  # 数据库用户名
+        "password": "***"  # 数据库密码
     }
     
     folder_path = r"D:\YYZ\临时数据\数仓建模数据\订单\总订单2025年11月1-10日"  # 数据文件所在文件夹

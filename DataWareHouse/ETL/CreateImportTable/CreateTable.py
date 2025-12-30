@@ -262,8 +262,8 @@ if __name__ == "__main__":
         "host": "localhost",
         "port": 5432,
         "dbname": "auteng",
-        "user": "yyz",
-        "password": "yyz0412"
+        "user": "***",
+        "password": "***"
     }
     creator = ExcelToPgSimple(db_config)
     # # 示例：创建表（可选）
